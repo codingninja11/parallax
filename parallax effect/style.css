@@ -42,7 +42,7 @@ header::before{
     right: 0;
     top: 0;
     display: block;
-    background-image: url("https://images.unsplash.com/photo-1505673542670-a5e3ff5b14a3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max");
+    background-image: url("https://images.unsplash.com/photo-1505673542670-a5e3ff5b14a3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080");
     background-origin: center center 0;
     transform: translateZ(-1px) scale(2);
     z-index: -1;
